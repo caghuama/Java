@@ -12,8 +12,6 @@ public class Main {
 
         //Pruebas para repo de github
 
-        String apellido_pat ="Romero";
-        String apellido_mat ="Garcia";
         int experiencia = 2;
         String ocupacion = "Consultor";
         String empresa = "MopegaTI";
