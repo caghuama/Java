@@ -1,4 +1,4 @@
-package Curso;
+package Curso.Strings;
 
 import javax.swing.*;
 
