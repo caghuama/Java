@@ -9,7 +9,7 @@ public class Application {
 
         System.out.println(texto);
 
-        String saludo = "Hola amigo, ¿Como estas?";
+        String saludo = "Hola amigo, ¿Como estás?";
 
         JOptionPane.showMessageDialog(null, saludo);
         System.out.println(saludo);
