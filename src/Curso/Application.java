@@ -1,0 +1,17 @@
+package Curso;
+
+import javax.swing.*;
+
+public class Application {
+    public static void main(String[] args) {
+
+        String texto = "Hola";
+
+        System.out.println(texto);
+
+        String saludo = "Hola amigo, ¿Como estas?";
+
+        JOptionPane.showMessageDialog(null, saludo);
+        System.out.println(saludo);
+    }
+}
