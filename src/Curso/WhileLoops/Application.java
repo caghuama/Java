@@ -10,7 +10,7 @@ public class Application {
 
         while(valor<valor2)
         {
-            System.out.println("Hola"+ valor);
+            System.out.println("Hola, tu tienes"+ valor);
 
             valor +=1;
         }
